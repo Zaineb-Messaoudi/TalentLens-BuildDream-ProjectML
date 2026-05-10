@@ -1,0 +1,8 @@
+.git
+.gitignore
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/.DS_Store
+talentlens-frontend/node_modules
+talentlens-frontend/dist
