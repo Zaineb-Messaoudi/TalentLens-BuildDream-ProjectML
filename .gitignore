@@ -1,0 +1,5 @@
+talentlens-frontend/node_modules/
+talentlens-frontend/dist/
+talentlens-backend/__pycache__/
+talentlens-backend/app/__pycache__/
+*.pyc
