@@ -1,0 +1,39 @@
+{
+  "rec_base_features": [
+    "years_experience",
+    "experience_level",
+    "remote_ratio",
+    "benefits_score",
+    "education_required"
+  ],
+  "rec_all_features": [
+    "years_experience",
+    "experience_level",
+    "remote_ratio",
+    "benefits_score",
+    "education_required",
+    "industry_Automotive",
+    "industry_Consulting",
+    "industry_Education",
+    "industry_Energy",
+    "industry_Finance",
+    "industry_Gaming",
+    "industry_Government",
+    "industry_Healthcare",
+    "industry_Manufacturing",
+    "industry_Media"
+  ],
+  "top_industry_cols": [
+    "industry_Automotive",
+    "industry_Consulting",
+    "industry_Education",
+    "industry_Energy",
+    "industry_Finance",
+    "industry_Gaming",
+    "industry_Government",
+    "industry_Healthcare",
+    "industry_Manufacturing",
+    "industry_Media"
+  ],
+  "n_neighbors": 6
+}

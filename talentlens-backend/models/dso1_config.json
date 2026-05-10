@@ -1,0 +1,9 @@
+{
+  "anomaly_features": [
+    "salary_usd",
+    "years_experience",
+    "remote_ratio",
+    "benefits_score",
+    "experience_level"
+  ]
+}

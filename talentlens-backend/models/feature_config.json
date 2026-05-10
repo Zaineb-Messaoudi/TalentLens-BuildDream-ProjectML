@@ -1,0 +1,91 @@
+{
+  "ordinal_cols": [
+    "experience_level",
+    "company_size",
+    "education_required"
+  ],
+  "ordinal_cats": [
+    [
+      "Entry Level",
+      "Mid Level",
+      "Senior Level",
+      "Executive Level"
+    ],
+    [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    [
+      "Associate",
+      "Bachelor",
+      "Master",
+      "PhD"
+    ]
+  ],
+  "drop_cols": [
+    "job_id",
+    "salary_currency",
+    "job_description_length",
+    "company_name",
+    "posting_date",
+    "application_deadline"
+  ],
+  "industry_cols": [
+    "industry_Automotive",
+    "industry_Consulting",
+    "industry_Education",
+    "industry_Energy",
+    "industry_Finance",
+    "industry_Gaming",
+    "industry_Government",
+    "industry_Healthcare",
+    "industry_Manufacturing",
+    "industry_Media",
+    "industry_Real Estate",
+    "industry_Retail",
+    "industry_Technology",
+    "industry_Telecommunications",
+    "industry_Transportation"
+  ],
+  "skill_classes": [
+    "AWS",
+    "Academic Writing",
+    "Agile",
+    "CI/CD",
+    "Cloud Architecture",
+    "Data Analysis",
+    "Data Visualization",
+    "Deep Learning",
+    "Docker",
+    "Excel",
+    "Experiment Design",
+    "Experimentation",
+    "Figma",
+    "Git",
+    "Human Computer Interaction",
+    "Kubernetes",
+    "Leadership",
+    "Linux",
+    "Machine Learning",
+    "Mathematics",
+    "Microservices",
+    "Power BI",
+    "Project Management",
+    "Prototyping",
+    "PyTorch",
+    "Python",
+    "Research",
+    "Roadmapping",
+    "SQL",
+    "Security",
+    "Stakeholder Communication",
+    "Statistics",
+    "Strategy",
+    "System Design",
+    "Tableau",
+    "TensorFlow",
+    "Usability Testing",
+    "User Research"
+  ]
+}

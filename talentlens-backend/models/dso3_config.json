@@ -1,0 +1,105 @@
+{
+  "clust_features": [
+    "salary_usd",
+    "years_experience",
+    "remote_ratio",
+    "benefits_score",
+    "experience_level"
+  ],
+  "segment_names": {
+    "1": "Junior",
+    "0": "Mid-Level",
+    "2": "Senior",
+    "3": "Executive"
+  },
+  "cluster_meta": {
+    "1": {
+      "name": "Junior",
+      "count": 3958,
+      "pct_market": 26.4,
+      "avg_salary": 87752,
+      "avg_years_exp": 3.5,
+      "avg_remote": 19,
+      "avg_benefits": 7.4
+    },
+    "0": {
+      "name": "Mid-Level",
+      "count": 4294,
+      "pct_market": 28.6,
+      "avg_salary": 89969,
+      "avg_years_exp": 3.6,
+      "avg_remote": 88,
+      "avg_benefits": 7.6
+    },
+    "2": {
+      "name": "Senior",
+      "count": 2999,
+      "pct_market": 20.0,
+      "avg_salary": 91010,
+      "avg_years_exp": 3.7,
+      "avg_remote": 33,
+      "avg_benefits": 7.5
+    },
+    "3": {
+      "name": "Executive",
+      "count": 3749,
+      "pct_market": 25.0,
+      "avg_salary": 193004,
+      "avg_years_exp": 14.2,
+      "avg_remote": 51,
+      "avg_benefits": 7.5
+    }
+  },
+  "top_skills_per_cluster": {
+    "1": [
+      "Python",
+      "SQL",
+      "AWS",
+      "Linux",
+      "PyTorch",
+      "Kubernetes",
+      "TensorFlow",
+      "CI/CD",
+      "Git",
+      "Docker"
+    ],
+    "0": [
+      "Python",
+      "AWS",
+      "SQL",
+      "Linux",
+      "PyTorch",
+      "Kubernetes",
+      "CI/CD",
+      "Docker",
+      "Git",
+      "TensorFlow"
+    ],
+    "2": [
+      "Python",
+      "SQL",
+      "AWS",
+      "Linux",
+      "PyTorch",
+      "Kubernetes",
+      "Data Analysis",
+      "TensorFlow",
+      "CI/CD",
+      "Git"
+    ],
+    "3": [
+      "Python",
+      "AWS",
+      "SQL",
+      "Linux",
+      "PyTorch",
+      "Kubernetes",
+      "Docker",
+      "TensorFlow",
+      "Data Analysis",
+      "Git"
+    ]
+  },
+  "silhouette": 0.19577091617039477,
+  "davies_bouldin": 1.4452843743103565
+}
